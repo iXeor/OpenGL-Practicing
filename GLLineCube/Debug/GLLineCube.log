@@ -1,0 +1,3 @@
+﻿  linecube.c
+D:\repos\GLLineCube\linecube.c(48,33): warning C4305: “函数”: 从“double”到“GLclampf”截断
+  GLLineCube.vcxproj -> D:\repos\GLLineCube\Debug\GLLineCube.exe
