@@ -1,0 +1,11 @@
+﻿  clock.c
+D:\repos\GLClock\clock.c(34,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(35,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(36,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(109,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(110,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(114,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(115,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\GLClock\clock.c(262,24): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+D:\repos\GLClock\clock.c(263,21): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+  GLClock.vcxproj -> D:\repos\GLClock\Debug\GLClock.exe
